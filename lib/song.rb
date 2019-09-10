@@ -47,7 +47,7 @@ class Song
     
     song = self.create
     song.name = song_name
-    artist.
+    song.artist_name = a
     
 
 end
