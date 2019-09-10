@@ -45,6 +45,7 @@ class Song
     artist_name = parts[0]
     song_name = parts[1].delete(".mp3")
     
+    song = 
     
 
 end
