@@ -46,6 +46,8 @@ class Song
     song_name = parts[1].delete(".mp3")
     
     song = self.create
+    song.name = song_name
+    artist.
     
 
 end
